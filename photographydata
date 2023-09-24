@@ -1,0 +1,213 @@
+{
+  "name": "On-Chain Photography",
+  "description": "Drew Harrison Marshall's signature photography collection on-chain exclusively built on the Ethscriptions protocol. Drew is the founder of Hydrate Labs and an early pioneer of photography projects with customized metadata on Ethereum.",
+  "total_supply": "4",
+  "logo_image_uri": "esc://ethscriptions/0x58df13990b8a3c0eb82685feba1ca1a981425d0eb02ad7740f5be04a8d93b32e/data",
+  "banner_image_uri": "https://freeimage.host/i/JJcvRPn",
+  "background_color": "#28282B",
+  "twitter_link": "https://twitter.com/cryptohydrate",
+  "website_link": "https://cryptohydrate.medium.com/",
+  "discord_link": "",
+  "collection_items": [
+    {
+      "ethscription_id": "0x58df13990b8a3c0eb82685feba1ca1a981425d0eb02ad7740f5be04a8d93b32e",
+      "name": "Footsteps on Baker Beach",
+      "description": "Sunset on Baker Beach, on the Northwest side of San Francisco. I held my camera low to the ground to capture the reflection of the sky on the sand.",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 0,
+      "item_attributes": [
+        {
+          "value": "2022",
+          "trait_type": "Year"
+        },
+        {
+          "value": "November",
+          "trait_type": "Month"
+        },
+        {
+          "value": "San Francisco",
+          "trait_type": "City"
+        },
+        {
+          "value": "Baker Beach",
+          "trait_type": "Location"
+        },
+        {
+          "value": "1049",
+          "trait_type": "Horizontal"
+        },
+        {
+          "value": "787",
+          "trait_type": "Vertical"
+        },
+        {
+          "value": "90.7kb",
+          "trait_type": "Ethscribed File Size"
+        },
+        {
+          "value": "2.4 MB",
+          "trait_type": "Raw File Size"
+        },
+        {
+          "value": "0.027Ξ",
+          "trait_type": "Mint Cost"
+        },
+        {
+          "value": "13.89Ξ",
+          "trait_type": "Gwei Cost"
+        }
+      ]
+    },
+    {
+      "ethscription_id": "0x79f26dd6ae31fdee309550895256973137190e560c602feeb661bd98cbd5c70b",
+      "name": "Downtown San Francisco",
+      "description": "Old Railroad Grade trail, descending from the east peak of Mount Tamalpais. Downtown San Francisco can be seen in the center of the image.",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 1,
+      "item_attributes": [
+        {
+          "value": "2022",
+          "trait_type": "Year"
+        },
+        {
+          "value": "November",
+          "trait_type": "Month"
+        },
+        {
+          "value": "Marin County",
+          "trait_type": "Vicinity"
+        },
+        {
+          "value": "Mount Tamalpais",
+          "trait_type": "Location"
+        },
+        {
+          "value": "767",
+          "trait_type": "Horizontal"
+        },
+        {
+          "value": "565",
+          "trait_type": "Vertical"
+        },
+        {
+          "value": "92.4kb",
+          "trait_type": "Ethscribed File Size"
+        },
+        {
+          "value": "4 MB",
+          "trait_type": "Raw File Size"
+        },
+        {
+          "value": "0.027Ξ",
+          "trait_type": "Mint Cost"
+        },
+        {
+          "value": "13.89Ξ",
+          "trait_type": "Gwei Cost"
+        }
+      ]
+    },
+ {
+      "ethscription_id": "0xef52dc307bd9800a9e5bc4d1f4856af04c9d7363f6c284ad142d968e186f73e0",
+      "name": "Love Shack",
+      "description": "Check the house number. Love is in the air.",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 2,
+      "item_attributes": [
+      {
+          "value": "2023",
+          "trait_type": "Year"
+        },
+        {
+          "value": "May",
+          "trait_type": "Month"
+        },
+        {
+          "value": "Asheville",
+          "trait_type": "City"
+        },
+        {
+          "value": "Jarrett St",
+          "trait_type": "Location"
+        },
+        {
+          "value": "968",
+          "trait_type": "Horizontal"
+        },
+        {
+          "value": "726",
+          "trait_type": "Vertical"
+        },
+        {
+          "value": "91kb",
+          "trait_type": "Ethscribed File Size"
+        },
+        {
+          "value": "2.28 MB",
+          "trait_type": "Raw File Size"
+        },
+   {
+          "value": "0.028Ξ",
+          "trait_type": "Mint Cost"
+        },
+        {
+          "value": "13Ξ",
+          "trait_type": "Gwei Cost"
+        }
+      ]
+    },
+ {
+      "ethscription_id": "0xfffd9ab4bb16317d77c3b15aa3510c8753ea33f3b1cd02dc3865de909575175e",
+      "name": "Tilted Trek",
+      "description": "We took a cab from downtown San Francisco to the East Peak of Mount Tamalpais. These grassy hills descend into lush rainforest valleys where massive redwoods reside.",
+      "external_url": "",
+      "background_color": "",
+      "item_index": 3,
+      "item_attributes": [
+     {
+          "value": "2022",
+          "trait_type": "Year"
+        },
+        {
+          "value": "November",
+          "trait_type": "Month"
+        },
+        {
+          "value": "Marin County",
+          "trait_type": "Vicinity"
+        },
+        {
+          "value": "Matt Davis Trail",
+          "trait_type": "Location"
+        },
+        {
+          "value": "680",
+          "trait_type": "Horizontal"
+        },
+        {
+          "value": "510",
+          "trait_type": "Vertical"
+        },
+        {
+          "value": "92.4kb",
+          "trait_type": "Ethscribed File Size"
+        },
+        {
+          "value": "5.94 MB",
+          "trait_type": "Raw File Size"
+        },
+{
+          "value": "0.014Ξ",
+          "trait_type": "Mint Cost"
+        },
+        {
+          "value": "6.98Ξ",
+          "trait_type": "Gwei Cost"
+}
+      ]
+    }
+  ]
+}
