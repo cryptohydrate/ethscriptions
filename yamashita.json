@@ -1,0 +1,47 @@
+{
+  "collection_items": [
+    {
+      "ethscription_id": "",
+      "name": "Michael Yamashita Signing Photography Prints",
+      "description": "A visit to Michael Yamashita's studio. He spent 40 years as a full time photographer at National Geographic, and was a pioneer for people of color at the magazine. In this action shot, he signs prints capturing the Pamir mountains of Afghanistan, and Jiuzhaigou National Park in China. These images were tokenized in 2021 by Jason Kingdon with Drew Marshall's help. Together, they made the first photography collection on Ethereum with technical photography information in the metadata, coding each line manually on the NFT minting platform Cargo.  The Jiuzhaigou print shown here on the bottom was purchased by Drew's friend DJ Mossey, and the Afghanistan print was purchased for the Marshall family collection.",
+      "item_attributes": [
+        {
+          "value": "2021",
+          "trait_type": "Year"
+        },
+        {
+          "value": "October",
+          "trait_type": "Month"
+        },
+        {
+          "value": "Chester",
+          "trait_type": "City"
+        },
+    {
+          "value": "Drew Marshall",
+          "trait_type": "Photographer"
+        },
+        {
+          "value": "Yamashita Studio",
+          "trait_type": "Location"
+        },
+        {
+          "value": "545",
+          "trait_type": "Horizontal"
+        },
+        {
+          "value": "726",
+          "trait_type": "Vertical"
+        },
+        {
+          "value": "94.57kb",
+          "trait_type": "Ethscribed File Size"
+        },
+        {
+          "value": "3.5 MB",
+          "trait_type": "Raw File Size"
+        }
+      ]
+    }
+]
+}
