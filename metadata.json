@@ -1,8 +1,8 @@
 {
   "name": "On-Chain Photography",
-  "description": "Drew Harrison Marshall's signature photography collection on-chain exclusively built on the Ethscriptions protocol. Drew is the founder of Hydrate Labs and an early pioneer of photography projects with customized metadata on Ethereum.",
+  "description": "Drew Harrison Marshall's on-chain photography collection built on the Ethscriptions protocol. Drew is the founder of Hydrate Labs and an early pioneer of photography projects with customized metadata on Ethereum.",
   "total_supply": "5",
-  "logo_image_uri": "esc://ethscriptions/0x58df13990b8a3c0eb82685feba1ca1a981425d0eb02ad7740f5be04a8d93b32e/data",
+  "logo_image_uri": "esc://ethscriptions/0xef52dc307bd9800a9e5bc4d1f4856af04c9d7363f6c284ad142d968e186f73e0/data",
   "banner_image_uri": "https://freeimage.host/i/JJcvRPn",
   "background_color": "#28282B",
   "twitter_link": "https://twitter.com/cryptohydrate",
@@ -210,9 +210,9 @@
       ]
     },
     {
-      "ethscription_id": "",
+      "ethscription_id": "0xf20b7eec3c55795b06477c6446f19675379bbc4039550afacce727dc458793bd",
       "name": "Michael Yamashita Signing Photography Prints",
-      "description": "A visit to Michael Yamashita's studio. He spent 40 years as a full time photographer at National Geographic, and was a pioneer for people of color at the magazine. In this action shot, he signs prints capturing the Pamir mountains of Afghanistan, and Jiuzhaigou National Park in China. These images were tokenized in 2021 by Jason Kingdon with Drew Marshall's help. Together, they made the first photography collection on Ethereum with technical photography information in the metadata, coding each line manually on the NFT minting platform Cargo.  The Jiuzhaigou print shown here on the bottom was purchased by Drew's friend DJ Mossey, and the Afghanistan print was purchased for the Marshall family collection.",
+      "description": "A visit to Michael Yamashita's studio. He spent 40 years as a full time photographer at National Geographic, and was a pioneer for people of color at the magazine. In this action shot, he signs prints capturing the Pamir mountains of Afghanistan, and Jiuzhaigou National Park in China.",
       "item_attributes": [
         {
           "value": "2021",
