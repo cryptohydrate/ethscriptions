@@ -1,18 +1,18 @@
 {
       "ethscription_id": "",
-      "name": "Michael Yamashita Signing Photography Prints",
-      "description": "A visit to Michael Yamashita's studio. He spent 40 years as a full time photographer at National Geographic, and was a pioneer for people of color at the magazine. In this action shot, he signs prints capturing the Pamir mountains of Afghanistan, and Jiuzhaigou National Park in China. These images were tokenized in 2021 by Jason Kingdon with Drew Marshall's help. Together, they made the first photography collection on Ethereum with technical photography information in the metadata, coding each line manually on the NFT minting platform Cargo.  The Jiuzhaigou print shown here on the bottom was purchased by Drew's friend DJ Mossey, and the Afghanistan print was purchased for the Marshall family collection.",
+      "name": "Alex the Cobbler",
+      "description": "Alex the Cobbler. Perfect 10 Shoe Repair, 9th Avenue, Manhattan New York. This photograph shows the very moment Alex noticed me, peaking out from under his thick spectacles, a yarmulke atop his head. He encouraged my curiousity, and stated boldly that he could craft a belt that would last 100 years. Mine had just broken, and he removed the buckle and repaired it for me. A final evening in New York staying on the Upper West Side, this memory preserved forever on blockchain by Drew Harrison Marshall.",
       "item_attributes": [
         {
-          "value": "2021",
+          "value": "2023",
           "trait_type": "Year"
         },
         {
-          "value": "October",
+          "value": "April",
           "trait_type": "Month"
         },
         {
-          "value": "Chester",
+          "value": "New York",
           "trait_type": "City"
         },
     {
@@ -20,15 +20,15 @@
           "trait_type": "Photographer"
         },
         {
-          "value": "Yamashita Studio",
+          "value": "Perfect 10 Shoe Repair",
           "trait_type": "Location"
         },
         {
-          "value": "545",
+          "value": "484",
           "trait_type": "Horizontal"
         },
         {
-          "value": "726",
+          "value": "646",
           "trait_type": "Vertical"
         },
         {
@@ -36,7 +36,7 @@
           "trait_type": "Ethscribed File Size"
         },
         {
-          "value": "3.5 MB",
+          "value": "3.67 MB",
           "trait_type": "Raw File Size"
         }
       ]
