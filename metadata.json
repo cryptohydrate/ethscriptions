@@ -1,7 +1,7 @@
 {
   "name": "On-Chain Photography",
   "description": "Drew Harrison Marshall's on-chain photography collection built on the Ethscriptions protocol. Drew is the founder of Hydrate Labs and an early pioneer of photography projects with customized metadata on Ethereum.",
-  "total_supply": "5",
+  "total_supply": "6",
   "logo_image_uri": "esc://ethscriptions/0xef52dc307bd9800a9e5bc4d1f4856af04c9d7363f6c284ad142d968e186f73e0/data",
   "banner_image_uri": "https://freeimage.host/i/JJcvRPn",
   "background_color": "#28282B",
@@ -250,6 +250,57 @@
           "value": "3.5 MB",
           "trait_type": "Raw File Size"
         }
+      ]
+},
+     {
+      "ethscription_id": "0xef836775bbde3a1be8232a6e135d2a3e358ef2aab46041ac6ef1908d4693c703",
+      "name": "Him, Her & Broadway",
+      "description": "A rendezvous with the mysterious Oona. She was joined by Creatrix, another performance artist, to celebrate her PLAYOONA art series. The background features the iconic H&M Tower and bleachers overlooking Father Duffy square.",
+      "item_attributes": [
+        {
+          "value": "2022",
+          "trait_type": "Year"
+        },
+        {
+          "value": "June",
+          "trait_type": "Month"
+        },
+        {
+          "value": "New York",
+          "trait_type": "City"
+        },
+    {
+          "value": "Drew Marshall",
+          "trait_type": "Photographer"
+        },
+        {
+          "value": "Broadway",
+          "trait_type": "Location"
+        },
+        {
+          "value": "484",
+          "trait_type": "Horizontal"
+        },
+        {
+          "value": "646",
+          "trait_type": "Vertical"
+        },
+        {
+          "value": "93.5kb",
+          "trait_type": "Ethscribed File Size"
+        },
+        {
+          "value": "4.33 MB",
+          "trait_type": "Raw File Size"
+        },
+        {
+          "value": "0.022Ξ",
+          "trait_type": "Mint Cost"
+        },
+        {
+          "value": "11Ξ",
+          "trait_type": "Gwei Cost"
+}
       ]
 }
   ]
