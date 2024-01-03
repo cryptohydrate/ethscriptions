@@ -249,7 +249,15 @@
         {
           "value": "3.5 MB",
           "trait_type": "Raw File Size"
-        }
+        },
+             {
+          "value": "0.022Ξ",
+          "trait_type": "Mint Cost"
+        },
+        {
+          "value": "11Ξ",
+          "trait_type": "Gwei Cost"
+}
       ]
 },
      {
@@ -299,6 +307,159 @@
         },
         {
           "value": "11Ξ",
+          "trait_type": "Gwei Cost"
+}
+      ]
+},
+    {
+        "ethscription_id": "0x3f2790e921eb494da790b6b103b39d7562e8513dea5c605c4f19eb9e311e1f61",
+      "name": "The moment Alex noticed me.",
+      "description": "Alex the Cobbler. Perfect 10 Shoe Repair, 9th Avenue, Manhattan New York. This photograph shows the very moment Alex noticed me, peaking out from under his thick spectacles, a yarmulke atop his head. He encouraged my curiousity, and stated boldly that he could craft a belt that would last 100 years. Mine had just broken, and he removed the buckle and repaired it for me. A final evening in New York staying on the Upper West Side, this memory preserved forever on blockchain by Drew Harrison Marshall.",
+      "item_attributes": [
+        {
+          "value": "2023",
+          "trait_type": "Year"
+        },
+        {
+          "value": "April",
+          "trait_type": "Month"
+        },
+        {
+          "value": "New York",
+          "trait_type": "City"
+        },
+    {
+          "value": "Drew Marshall",
+          "trait_type": "Photographer"
+        },
+        {
+          "value": "Perfect 10 Shoe Repair",
+          "trait_type": "Location"
+        },
+        {
+          "value": "438",
+          "trait_type": "Horizontal"
+        },
+        {
+          "value": "584",
+          "trait_type": "Vertical"
+        },
+        {
+          "value": "95.99kb",
+          "trait_type": "Ethscribed File Size"
+        },
+        {
+          "value": "3.67 MB",
+          "trait_type": "Raw File Size"
+        },
+             {
+          "value": "0.021Ξ",
+          "trait_type": "Mint Cost"
+        },
+        {
+          "value": "10Ξ",
+          "trait_type": "Gwei Cost"
+}
+      ]
+},
+        {
+        "ethscription_id": "0x6c18ea154e7fe40d7a8da66d39a0525dafd7000eea568a2d696ab6898d77e5ee",
+      "name": "Ozomatli",
+      "description": "Two Ozomatli, or monkeys in the Aztec's Nauhautl language. Deep in their slumber on a fall morning, the light kissed their golden skin as I raised the curtains and captured this moment before their waking.",
+      "item_attributes": [
+        {
+          "value": "2023",
+          "trait_type": "Year"
+        },
+        {
+          "value": "September",
+          "trait_type": "Month"
+        },
+        {
+          "value": "Philadelphia",
+          "trait_type": "City"
+        },
+    {
+          "value": "Drew Marshall",
+          "trait_type": "Photographer"
+        },
+        {
+          "value": "Home",
+          "trait_type": "Location"
+        },
+        {
+          "value": "515",
+          "trait_type": "Horizontal"
+        },
+        {
+          "value": "686",
+          "trait_type": "Vertical"
+        },
+        {
+          "value": "91.21kb",
+          "trait_type": "Ethscribed File Size"
+        },
+        {
+          "value": "2.9 MB",
+          "trait_type": "Raw File Size"
+        },
+                    {
+          "value": "0.018Ξ",
+          "trait_type": "Mint Cost"
+        },
+        {
+          "value": "9Ξ",
+          "trait_type": "Gwei Cost"
+}
+      ]
+},
+            {
+        "ethscription_id": "0x9f0892d1bb64920b635429b2c08f918a6a6b44f364091038126f61bb9564a013",
+      "name": "Ashokawna",
+      "description": "The Russian river, known as Ashowkawna by the native Pomo people, welled around Penny Island, failing to empty into the ocean. In the middle of the channel, logs and debris were strewn about, and a log dome had been constructed. I climbed in the door and took this shot of the ocean.",
+      "item_attributes": [
+        {
+          "value": "2022",
+          "trait_type": "Year"
+        },
+        {
+          "value": "November",
+          "trait_type": "Month"
+        },
+        {
+          "value": "Jenner",
+          "trait_type": "City"
+        },
+    {
+          "value": "Drew Marshall",
+          "trait_type": "Photographer"
+        },
+        {
+          "value": "Russian River",
+          "trait_type": "Location"
+        },
+        {
+          "value": "664",
+          "trait_type": "Horizontal"
+        },
+        {
+          "value": "883",
+          "trait_type": "Vertical"
+        },
+        {
+          "value": "95.51kb",
+          "trait_type": "Ethscribed File Size"
+        },
+        {
+          "value": "3.3 MB",
+          "trait_type": "Raw File Size"
+        },
+             {
+          "value": "0.016Ξ",
+          "trait_type": "Mint Cost"
+        },
+        {
+          "value": "8.97Ξ",
           "trait_type": "Gwei Cost"
 }
       ]
