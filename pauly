@@ -1,43 +1,46 @@
 {
-      "ethscription_id": "",
-      "name": "Michael Yamashita Signing Photography Prints",
-      "description": "A visit to Michael Yamashita's studio. He spent 40 years as a full time photographer at National Geographic, and was a pioneer for people of color at the magazine. In this action shot, he signs prints capturing the Pamir mountains of Afghanistan, and Jiuzhaigou National Park in China. These images were tokenized in 2021 by Jason Kingdon with Drew Marshall's help. Together, they made the first photography collection on Ethereum with technical photography information in the metadata, coding each line manually on the NFT minting platform Cargo.  The Jiuzhaigou print shown here on the bottom was purchased by Drew's friend DJ Mossey, and the Afghanistan print was purchased for the Marshall family collection.",
+      "name": "Pauly0x First NFT Collab",
+      "description": "Goro Ishihata is a drunk Japanese artist who wooed us in summer of 2021 with his original pixel art. Pauly's first NFT collaboration was with Goro, and the buyer The_MegaVega later burned the piece as a 'sacrifice,' making the art public domain. Pauly urged me to recreate the piece in June of 2022, and here it is, inscribed on blockchain for all of eternity.",
       "item_attributes": [
         {
-          "value": "2021",
-          "trait_type": "Year"
+          "value": "cryptohydrate.eth",
+          "trait_type": "Iscribooor"
         },
         {
-          "value": "October",
-          "trait_type": "Month"
+          "value": "0xf6f96d41048909bddd2056caa37f4cea52ae54e6e748bfbc882b43322a731a91",
+          "trait_type": "Mint Permission Ethscription ID"
         },
         {
-          "value": "Chester",
-          "trait_type": "City"
+          "value": "1537559651943948291",
+          "trait_type": "Mint Permission X ID #"
         },
     {
-          "value": "Drew Marshall",
-          "trait_type": "Photographer"
+          "value": "Pauly0x & Goro Ishihata",
+          "trait_type": "Artists"
         },
         {
-          "value": "Yamashita Studio",
-          "trait_type": "Location"
-        },
-        {
-          "value": "545",
+          "value": "583",
           "trait_type": "Horizontal"
         },
         {
-          "value": "726",
+          "value": "583",
           "trait_type": "Vertical"
         },
         {
-          "value": "94.57kb",
-          "trait_type": "Ethscribed File Size"
+          "value": "70824",
+          "trait_type": "Foundation Token ID"
         },
         {
-          "value": "3.5 MB",
-          "trait_type": "Raw File Size"
+          "value": "August 12 2021",
+          "trait_type": "Original Sale Date"
+        },
+        {
+          "value": "0x565d6292b5e1297ed5dbb7165a6f5a845df496af72833ecf4960e74523c2fa2e",
+          "trait_type": "Burn TX hash"
+        },
+        {
+          "value": "0.1212Ξ",
+          "trait_type": "Original Sale Price"
         }
       ]
 }
